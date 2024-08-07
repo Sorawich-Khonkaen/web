@@ -18,7 +18,7 @@ input[type=reset]:hover {
     background-color: #440303;
 }
 
-input[type=reset]:hover {
+input[type=reset] {
     background-color: #ff0707;
     border: none;
     color: white;
